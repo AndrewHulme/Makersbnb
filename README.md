@@ -1,8 +1,19 @@
 # Makersbnb
 
-Create a clone of the Airbnb website!
+## Project Description
 
+Create a clone of the Airbnb website in Ruby. This is a group project focused on pair programming, delivering the MVP and utilizing XP principles.
 
+## Tech Stack:
+
+- [Ruby]
+- [Sinatra](http://sinatrarb.com/) Sinatra is a DSL for quickly creating web. applications in Ruby with minimal effort.
+- [PostgreSQL](https://www.postgresql.org/) Open Source Relational Database
+- [RSpec](https://rspec.info/) Behaviour Driven.
+- [Capybara](https://github.com/teamcapybara/capybara) Capybara helps you test web applications by simulating how a real user would interact with your app.
+  Development for Ruby. **TDD**.
+- [Rubocop](https://github.com/rubocop-hq/rubocop) RuboCop is a Ruby static code analyzer (a.k.a. linter) and code formatter.
+- [Bootstrap](https://getbootstrap.com/) & CSS for styling.
 
 
 
